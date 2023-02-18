@@ -1,0 +1,75 @@
+.edit-symbol {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+
+  body{
+    background-color: #1E1E1E;
+    color: white;
+    margin-left: 2.75vw;
+    font-size: 20px;
+}
+h1{
+
+    
+width: 647px;
+height: 58px;
+left: 65px;
+top: 62px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+
+button{
+width: 712px;
+height: 67px;
+left: 65px;
+top: 384px;
+
+background: #FFFFFF;
+}
+form{
+    width: 51%;
+   margin-bottom: 25px;
+}
+form input{
+    background-color: rgb(59, 57, 57);
+    height:30px;
+    float:right;
+    color: white;
+    font-size: 20px;
+  
+}
+form button{
+    font-size: 20px;
+    height: 30px;
+    width: 50vw;
+}
+table{
+    width: 95vw;
+
+}
+th,td{
+   
+    padding: 5px;
+    margin:10px ;
+}
+table, th {
+    border: 1px solid rgb(255, 252, 252);
+    border-collapse: collapse;
+  }
+
+  tbody>tr{
+    border: none;
+  }
+th,td{
+    border-left: 1px solid white;
+}
